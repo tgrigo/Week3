@@ -79,13 +79,6 @@
 			"Enter the break or break (n) where n=number of loops."
 		]
 	},
-	"expr": {
-		"prefix": "expr",
-		"body": "expr ${0:1 + 1}",
-		"description": [
-			"Calculate numbers with Bash."
-		]
-	},
 	"bluecolourread": {
 		"prefix": "blueread",
 		"body": "read -p $(echo -e ${033[1;34m}<TEXT>${033[0m})",

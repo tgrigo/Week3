@@ -1,4 +1,6 @@
 #!/bin/bash
+#####
+
 # Create the fruit names list
 names='Apple Mango Strawberry Orange Banana'
 # For each items in the 'names' list assign each to the variable '$names'

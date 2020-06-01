@@ -1,4 +1,5 @@
 #!/bin/bash
+####
 chmod a+x ~/scripts/portfolio/Week2/passwordCheck.sh
 chmod a+x ~/scripts/portfolio/Week2/foldermaker.sh
 chmod a+x ~/scripts/portfolio/Week2/setPassword.sh

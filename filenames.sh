@@ -1,4 +1,6 @@
 #!/bin/bash
+#######
+
 IFS=$'\n'
 for line in $(cat ./filenames.txt)
 

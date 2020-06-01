@@ -1,4 +1,5 @@
 #!/bin/bash
+######
 
 # I have modified the original mege folder maker to allow the user to input the two folder names, 
 # rather that having to put them in the command line after the script name as per the copy and
